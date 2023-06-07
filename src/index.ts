@@ -15,7 +15,19 @@ const keys = [
 	"ships_and_boats",
 ] as const;
 
-async function getElementTextContent(element: ElementHandle<Element>) {
+type Selectors = (typeof selectors)[number];
+
+type Keys = (typeof keys)[number];
+
+type ComputedKeys = keyof {
+	[K in Selectors as K extends `${string}-${infer R}`
+		? `${R}_${Keys}`
+		: never]: unknown;
+};
+
+async function getElementTextContent(
+	element: ElementHandle<Element>
+): Promise<string | null> {
 	return element.evaluate(el => el.textContent);
 }
 
@@ -38,7 +50,9 @@ puppeteer
 
 		await page.waitForSelector(".card__amount-total");
 
-		async function getElementsValues(selector: string) {
+		async function getElementsValues<T extends string>(
+			selector: T
+		): Promise<Record<ComputedKeys, string>> {
 			const keyPrefix = selector.split("-")[1];
 
 			const targetElements = await page.$$(selector);
@@ -49,25 +63,29 @@ puppeteer
 
 			return Object.fromEntries(
 				keys.map((key, index) => [`${keyPrefix}_${key}`, elementValues[index]])
-			);
+			) as Record<ComputedKeys, string>;
 		}
 
-		const results = [];
+		const results: Array<Record<ComputedKeys, number> & { date: string }> = [];
 
 		for (let i = 0; i <= 23; i++) {
 			const data = await Promise.all(selectors.map(getElementsValues));
 
 			const dateElement = await page.$(".date__label");
-			const date = dateElement && (await getElementTextContent(dateElement));
+			const date =
+				(dateElement && (await getElementTextContent(dateElement))) || "";
 
-			const combinedData = data.reduce((acc, val) => ({ ...acc, ...val }), {});
+			const combinedData = data.reduce(
+				(acc, val) => ({ ...acc, ...val }),
+				{} as Record<ComputedKeys, string>
+			);
 
 			const clearedData = Object.fromEntries(
 				Object.entries(combinedData).map(([key, value]) => [
 					key,
 					cleanScrapedValue(value),
 				])
-			);
+			) as Record<ComputedKeys, number>;
 
 			results.push({ ...clearedData, date });
 
