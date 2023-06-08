@@ -8,6 +8,12 @@ Install the dependencies:
 npm install
 ```
 
+Create a `.env` file and fill it with the following contents:
+
+```
+WEBSITE_URL=
+```
+
 Run the script:
 
 ```bash
