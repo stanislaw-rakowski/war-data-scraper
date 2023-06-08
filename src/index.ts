@@ -1,7 +1,10 @@
+import "dotenv/config";
 import fs from "fs";
 import puppeteer from "puppeteer-extra";
 import StealthPlugin from "puppeteer-extra-plugin-stealth";
 import { executablePath, type ElementHandle } from "puppeteer";
+
+const url = String(process.env.WEBSITE_URL);
 
 const selectors = [".card__amount-total", ".card__amount-progress"] as const;
 
@@ -46,7 +49,7 @@ puppeteer
 	.then(async browser => {
 		const page = await browser.newPage();
 
-		await page.goto("https://www.minusrus.com/en");
+		await page.goto(url);
 
 		await page.waitForSelector(".card__amount-total");
 
