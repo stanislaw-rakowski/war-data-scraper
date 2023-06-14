@@ -101,16 +101,14 @@ export default async function htmlScraper() {
 	const dom = await getWebsiteDOM(baseUrl);
 
 	const linkElements = dom.window.document.querySelectorAll(".ajaxmonth a");
-	const linksHrefValues = [
+	const links = [
 		baseUrl,
 		...Array.from(linkElements).map(
 			link => `${url}${link.getAttribute("href")}`
 		),
 	];
 
-	const scrapedValues = await Promise.all(
-		linksHrefValues.map(href => getWebsiteContent(href as string))
-	);
+	const scrapedValues = await Promise.all(links.map(getWebsiteContent));
 
 	const data = parseScrapedValues(scrapedValues);
 
