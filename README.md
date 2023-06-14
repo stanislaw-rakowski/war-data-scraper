@@ -11,7 +11,8 @@ npm install
 Create a `.env` file and fill it with the following contents:
 
 ```
-WEBSITE_URL=
+WEBSITE_URL_1=
+WEBSITE_URL_2=
 ```
 
 Run the script:
@@ -20,4 +21,4 @@ Run the script:
 npm run start
 ```
 
-Data will show up in the created `data.json` file
+Data will show up in the created `data_1.json` and `data_2.json` file
