@@ -2,45 +2,51 @@ import "dotenv/config";
 import fs from "fs";
 import fetch from "node-fetch";
 import { JSDOM } from "jsdom";
-import { HtmlScraperData, HtmlScraperDataKeys } from "./types";
+import type { HtmlScraperData, HtmlScraperDataKeys } from "./types";
 
 const url = String(process.env.WEBSITE_URL_2);
 
-async function getWebsiteContent(url: string) {
+function parseDataElementsValues(
+	elements: HTMLLIElement[]
+): Partial<HtmlScraperData> {
+	return elements.reduce((data, element) => {
+		const categoryText = element.textContent || "";
+		const matches = categoryText.match(/([^—]+)—\s*(\d+).*?(\(\+\d+\))?/);
+
+		if (matches && matches.length >= 3) {
+			const [_, category] = matches;
+			const categoryName = category.trim() as HtmlScraperDataKeys;
+			const changeValue = extractNumber(matches.input as string);
+
+			data[categoryName] = changeValue;
+		}
+
+		return data;
+	}, {} as Partial<HtmlScraperData>);
+}
+
+async function getWebsiteContent(
+	url: string
+): Promise<Partial<HtmlScraperData>[]> {
 	const dom = await getWebsiteDOM(url);
 
 	const listItemElements = dom.window.document.querySelectorAll("li.gold");
 
-	const dataList: Partial<HtmlScraperData>[] = [];
-
-	Array.from(listItemElements)
+	return Array.from(listItemElements)
 		.slice(1)
-		.forEach(li => {
+		.map(li => {
 			const dateElement = li.querySelector(".black");
 			const casualtiesElement = li.querySelector(".casualties");
 
 			const date = dateElement?.textContent?.trim() || "";
-			const categoryElements = casualtiesElement?.querySelectorAll("li");
+			const categoryElements = Array.from(
+				casualtiesElement?.querySelectorAll("li") ?? []
+			);
 
-			const data: Partial<HtmlScraperData> = {};
+			const data = parseDataElementsValues(categoryElements);
 
-			categoryElements?.forEach(categoryElement => {
-				const categoryText = categoryElement.textContent || "";
-				const matches = categoryText.match(/([^—]+)—\s*(\d+).*?(\(\+\d+\))?/);
-
-				if (matches && matches.length >= 3) {
-					const [_, category] = matches;
-					const categoryName = category.trim() as HtmlScraperDataKeys;
-					const changeValue = extractNumber(matches.input as string);
-
-					data[categoryName] = changeValue;
-				}
-			});
-
-			dataList.push({ date, ...data });
-		});
-
-	return dataList;
+			return { date, ...data };
+		}) as Partial<HtmlScraperData>[];
 }
 
 function addMissingKeys(
@@ -50,7 +56,7 @@ function addMissingKeys(
 		new Set(objects.flatMap(obj => Object.keys(obj)))
 	) as HtmlScraperDataKeys[];
 
-	const result = objects.map(obj => {
+	return objects.map(obj => {
 		const newObj = { ...obj };
 		keys.forEach(key => {
 			if (!(key in newObj)) {
@@ -59,8 +65,6 @@ function addMissingKeys(
 		});
 		return newObj;
 	}) as HtmlScraperData[];
-
-	return result;
 }
 
 function extractNumber(input: string): number {
@@ -69,9 +73,9 @@ function extractNumber(input: string): number {
 
 	if (match && match.length > 1) {
 		return parseInt(match[1]);
-	} else {
-		return 0;
 	}
+
+	return 0;
 }
 
 async function getWebsiteDOM(url: string): Promise<JSDOM> {
@@ -82,28 +86,33 @@ async function getWebsiteDOM(url: string): Promise<JSDOM> {
 	return new JSDOM(html);
 }
 
+function parseScrapedValues(
+	values: Partial<HtmlScraperData>[][]
+): HtmlScraperData[] {
+	const filteredValues = values
+		.flatMap(array => array)
+		.filter(obj => obj.date !== "See also:");
+
+	return addMissingKeys(filteredValues);
+}
+
 export default async function htmlScraper() {
 	const baseUrl = `${url}russian-invading/casualties`;
 	const dom = await getWebsiteDOM(baseUrl);
 
 	const linkElements = dom.window.document.querySelectorAll(".ajaxmonth a");
-	const hrefValues = [
+	const linksHrefValues = [
 		baseUrl,
 		...Array.from(linkElements).map(
 			link => `${url}${link.getAttribute("href")}`
 		),
 	];
 
-	const values = await Promise.all(
-		hrefValues.map(href => getWebsiteContent(href as string))
+	const scrapedValues = await Promise.all(
+		linksHrefValues.map(href => getWebsiteContent(href as string))
 	);
 
-	const data: Partial<HtmlScraperData>[] = values
-		.flatMap(array => array)
-		.filter(obj => obj.date !== "See also:");
+	const data = parseScrapedValues(scrapedValues);
 
-	fs.writeFileSync(
-		"data_2.json",
-		JSON.stringify(addMissingKeys(data), undefined, 2)
-	);
+	fs.writeFileSync("data_2.json", JSON.stringify(data, undefined, 2));
 }

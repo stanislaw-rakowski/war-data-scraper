@@ -11,9 +11,9 @@ export const puppeteerScraperDataKeys = [
 export type PuppeteerScraperDataKeys =
 	(typeof puppeteerScraperDataKeys)[number];
 
-export type PuppeteerScraperData = Array<
-	Record<PuppeteerScraperDataKeys, number> & { date: string }
->;
+export type PuppeteerScraperData = Record<PuppeteerScraperDataKeys, number> & {
+	date: string;
+};
 
 export const htmlScraperDataKeys = [
 	"Tanks",

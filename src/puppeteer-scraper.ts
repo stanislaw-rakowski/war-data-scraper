@@ -5,8 +5,8 @@ import StealthPlugin from "puppeteer-extra-plugin-stealth";
 import { executablePath, type ElementHandle, type Page } from "puppeteer";
 import {
 	puppeteerScraperDataKeys,
-	PuppeteerScraperDataKeys,
-	PuppeteerScraperData,
+	type PuppeteerScraperDataKeys,
+	type PuppeteerScraperData,
 } from "./types";
 
 const url = String(process.env.WEBSITE_URL_1);
@@ -60,7 +60,7 @@ export default function puppeteerScraper() {
 
 			await page.waitForSelector(".card__amount-total");
 
-			const results: PuppeteerScraperData = [];
+			const results: PuppeteerScraperData[] = [];
 
 			for (let i = 0; i <= 23; i++) {
 				const data = await getPageData(page);
