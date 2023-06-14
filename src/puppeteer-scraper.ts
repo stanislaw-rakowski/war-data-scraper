@@ -2,31 +2,14 @@ import "dotenv/config";
 import fs from "fs";
 import puppeteer from "puppeteer-extra";
 import StealthPlugin from "puppeteer-extra-plugin-stealth";
-import { executablePath, type ElementHandle } from "puppeteer";
+import { executablePath, type ElementHandle, type Page } from "puppeteer";
+import {
+	puppeteerScraperDataKeys,
+	PuppeteerScraperDataKeys,
+	PuppeteerScraperData,
+} from "./types";
 
 const url = String(process.env.WEBSITE_URL_1);
-
-const selectors = [".card__amount-progress"] as const;
-
-const keys = [
-	"Military personnel",
-	"Armored fighting vehicle",
-	"Tanks",
-	"Anti-aircraft warfare",
-	"Aircrafts",
-	"Helicopters",
-	"Ships (boats)",
-] as const;
-
-type Selectors = (typeof selectors)[number];
-
-type Keys = (typeof keys)[number];
-
-type ComputedKeys = keyof {
-	[K in Selectors as K extends `${string}-${infer R}`
-		? `${R}_${Keys}`
-		: never]: unknown;
-};
 
 async function getElementTextContent(
 	element: ElementHandle<Element>
@@ -44,7 +27,28 @@ function cleanScrapedValue(value: string | null | undefined): number {
 	return 0;
 }
 
-export default function main() {
+async function getPageData(page: Page) {
+	const targetElements = await page.$$(".card__amount-progress");
+
+	const elementValues = await Promise.all(
+		targetElements.map(getElementTextContent)
+	);
+
+	const data = Object.fromEntries(
+		puppeteerScraperDataKeys.map((key, index) => [
+			key,
+			cleanScrapedValue(elementValues[index]),
+		])
+	) as Record<PuppeteerScraperDataKeys, number>;
+
+	const dateElement = await page.$(".date__label");
+	const date =
+		(dateElement && (await getElementTextContent(dateElement))) || "";
+
+	return { date, ...data };
+}
+
+export default function puppeteerScraper() {
 	puppeteer.use(StealthPlugin());
 
 	puppeteer
@@ -56,45 +60,12 @@ export default function main() {
 
 			await page.waitForSelector(".card__amount-total");
 
-			async function getElementsValues(
-				selector: Selectors
-			): Promise<Record<ComputedKeys, string>> {
-				const keyPrefix = selector.split("-")[1];
-
-				const targetElements = await page.$$(selector);
-
-				const elementValues = await Promise.all(
-					targetElements.map(getElementTextContent)
-				);
-
-				return Object.fromEntries(
-					keys.map((key, index) => [key, elementValues[index]])
-				) as Record<ComputedKeys, string>;
-			}
-
-			const results: Array<Record<ComputedKeys, number> & { date: string }> =
-				[];
+			const results: PuppeteerScraperData = [];
 
 			for (let i = 0; i <= 23; i++) {
-				const data = await Promise.all(selectors.map(getElementsValues));
+				const data = await getPageData(page);
 
-				const dateElement = await page.$(".date__label");
-				const date =
-					(dateElement && (await getElementTextContent(dateElement))) || "";
-
-				const combinedData = data.reduce(
-					(acc, val) => ({ ...acc, ...val }),
-					{} as Record<ComputedKeys, string>
-				);
-
-				const clearedData = Object.fromEntries(
-					Object.entries(combinedData).map(([key, value]) => [
-						key,
-						cleanScrapedValue(value),
-					])
-				) as Record<ComputedKeys, number>;
-
-				results.push({ date, ...clearedData });
+				results.push(data);
 
 				await page.waitForTimeout(100);
 

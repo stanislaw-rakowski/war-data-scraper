@@ -2,6 +2,7 @@ import "dotenv/config";
 import fs from "fs";
 import fetch from "node-fetch";
 import { JSDOM } from "jsdom";
+import { HtmlScraperData, HtmlScraperDataKeys } from "./types";
 
 const url = String(process.env.WEBSITE_URL_2);
 
@@ -10,48 +11,45 @@ async function getWebsiteContent(url: string) {
 
 	const listItemElements = dom.window.document.querySelectorAll("li.gold");
 
-	const dataList: Record<string, any>[] = [];
+	const dataList: Partial<HtmlScraperData>[] = [];
 
 	Array.from(listItemElements)
 		.slice(1)
-		.forEach((li, index) => {
+		.forEach(li => {
 			const dateElement = li.querySelector(".black");
 			const casualtiesElement = li.querySelector(".casualties");
 
 			const date = dateElement?.textContent?.trim() || "";
 			const categoryElements = casualtiesElement?.querySelectorAll("li");
 
-			const data: Record<string, any> = {
-				date,
-			};
+			const data: Partial<HtmlScraperData> = {};
 
 			categoryElements?.forEach(categoryElement => {
 				const categoryText = categoryElement.textContent || "";
 				const matches = categoryText.match(/([^—]+)—\s*(\d+).*?(\(\+\d+\))?/);
 
 				if (matches && matches.length >= 3) {
-					const [_, category, count] = matches;
-					const categoryName = category.trim();
-					const countValue = parseInt(count.replace(/,/g, ""), 10);
+					const [_, category] = matches;
+					const categoryName = category.trim() as HtmlScraperDataKeys;
 					const changeValue = extractNumber(matches.input as string);
 
 					data[categoryName] = changeValue;
 				}
 			});
 
-			dataList.push(data);
+			dataList.push({ date, ...data });
 		});
 
 	return dataList;
 }
 
 function addMissingKeys(
-	objects: { [key: string]: number }[]
-): { [key: string]: number }[] {
-	// Find all unique keys across all objects
-	const keys = Array.from(new Set(objects.flatMap(obj => Object.keys(obj))));
+	objects: Partial<HtmlScraperData>[]
+): HtmlScraperData[] {
+	const keys = Array.from(
+		new Set(objects.flatMap(obj => Object.keys(obj)))
+	) as HtmlScraperDataKeys[];
 
-	// Add missing keys to each object with a value of zero
 	const result = objects.map(obj => {
 		const newObj = { ...obj };
 		keys.forEach(key => {
@@ -60,23 +58,23 @@ function addMissingKeys(
 			}
 		});
 		return newObj;
-	});
+	}) as HtmlScraperData[];
 
 	return result;
 }
 
 function extractNumber(input: string): number {
-	const regex = /\(\+(\d+)\)/; // Regex to match "(+9)" pattern
-	const match = input.match(regex); // Find the match in the input string
+	const regex = /\(\+(\d+)\)/;
+	const match = input.match(regex);
 
 	if (match && match.length > 1) {
-		return parseInt(match[1]); // Extract the number from the match
+		return parseInt(match[1]);
 	} else {
-		return 0; // Return zero if no match found
+		return 0;
 	}
 }
 
-async function getWebsiteDOM(url: string) {
+async function getWebsiteDOM(url: string): Promise<JSDOM> {
 	const response = await fetch(url);
 
 	const html = await response.text();
@@ -84,7 +82,7 @@ async function getWebsiteDOM(url: string) {
 	return new JSDOM(html);
 }
 
-export default async function main() {
+export default async function htmlScraper() {
 	const baseUrl = `${url}russian-invading/casualties`;
 	const dom = await getWebsiteDOM(baseUrl);
 
@@ -100,7 +98,7 @@ export default async function main() {
 		hrefValues.map(href => getWebsiteContent(href as string))
 	);
 
-	const data: any = values
+	const data: Partial<HtmlScraperData>[] = values
 		.flatMap(array => array)
 		.filter(obj => obj.date !== "See also:");
 
