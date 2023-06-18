@@ -11,7 +11,8 @@ function parseDataElementsValues(
 ): Partial<HtmlScraperData> {
 	return elements.reduce((data, element) => {
 		const categoryText = element.textContent || "";
-		const matches = categoryText.match(/([^—]+)—\s*(\d+).*?(\(\+\d+\))?/);
+		const regex = /([^—]+)—[^+\n]*(?:\((\+\d+)\))?/;
+		const matches = categoryText.match(regex);
 
 		if (matches && matches.length >= 3) {
 			const [_, category] = matches;

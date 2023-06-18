@@ -1,5 +1,89 @@
 [
   {
+    "date": "17.06.2023",
+    "Tanks": 12,
+    "Armored fighting vehicle": 23,
+    "Cannons": 22,
+    "MLRS": 3,
+    "Anti-aircraft warfare": 0,
+    "Planes": 0,
+    "Helicopters": 1,
+    "UAV": 7,
+    "Cruise missiles": 12,
+    "Ships (boats)": 0,
+    "Cars and cisterns": 38,
+    "Special equipment": 1,
+    "Military personnel": 670,
+    "Cars": 0,
+    "Cisterns with fuel": 0,
+    "Mobile SRBM": 0,
+    "MLRS Grad": 0,
+    "BUK missile system": 0
+  },
+  {
+    "date": "16.06.2023",
+    "Tanks": 10,
+    "Armored fighting vehicle": 16,
+    "Cannons": 19,
+    "MLRS": 2,
+    "Anti-aircraft warfare": 0,
+    "Planes": 0,
+    "Helicopters": 0,
+    "UAV": 24,
+    "Cruise missiles": 0,
+    "Ships (boats)": 0,
+    "Cars and cisterns": 13,
+    "Special equipment": 0,
+    "Military personnel": 590,
+    "Cars": 0,
+    "Cisterns with fuel": 0,
+    "Mobile SRBM": 0,
+    "MLRS Grad": 0,
+    "BUK missile system": 0
+  },
+  {
+    "date": "15.06.2023",
+    "Tanks": 12,
+    "Armored fighting vehicle": 14,
+    "Cannons": 10,
+    "MLRS": 1,
+    "Anti-aircraft warfare": 0,
+    "Planes": 0,
+    "Helicopters": 1,
+    "UAV": 9,
+    "Cruise missiles": 3,
+    "Ships (boats)": 0,
+    "Cars and cisterns": 24,
+    "Special equipment": 3,
+    "Military personnel": 580,
+    "Cars": 0,
+    "Cisterns with fuel": 0,
+    "Mobile SRBM": 0,
+    "MLRS Grad": 0,
+    "BUK missile system": 0
+  },
+  {
+    "date": "14.06.2023",
+    "Tanks": 8,
+    "Armored fighting vehicle": 11,
+    "Cannons": 17,
+    "MLRS": 2,
+    "Anti-aircraft warfare": 1,
+    "Planes": 0,
+    "Helicopters": 0,
+    "UAV": 15,
+    "Cruise missiles": 13,
+    "Ships (boats)": 0,
+    "Cars and cisterns": 9,
+    "Special equipment": 5,
+    "Military personnel": 680,
+    "Cars": 0,
+    "Cisterns with fuel": 0,
+    "Mobile SRBM": 0,
+    "MLRS Grad": 0,
+    "BUK missile system": 0
+  },
+  {
     "date": "13.06.2023",
     "Tanks": 4,
     "Armored fighting vehicle": 6,
@@ -13,11 +97,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 2,
     "Special equipment": 1,
+    "Military personnel": 470,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -34,11 +118,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 1,
+    "Military personnel": 540,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -55,11 +139,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 33,
     "Special equipment": 2,
+    "Military personnel": 980,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -76,11 +160,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 18,
     "Special equipment": 5,
+    "Military personnel": 890,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -97,11 +181,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 26,
     "Special equipment": 2,
+    "Military personnel": 1010,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -118,11 +202,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 35,
     "Special equipment": 8,
+    "Military personnel": 730,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -139,11 +223,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 17,
     "Special equipment": 3,
+    "Military personnel": 880,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -160,11 +244,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 20,
     "Special equipment": 5,
+    "Military personnel": 800,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -181,11 +265,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 5,
+    "Military personnel": 410,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -202,11 +286,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 16,
     "Special equipment": 4,
+    "Military personnel": 470,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -223,11 +307,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 22,
     "Special equipment": 10,
+    "Military personnel": 560,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -244,11 +328,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 28,
     "Special equipment": 7,
+    "Military personnel": 540,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -265,11 +349,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 9,
     "Special equipment": 4,
+    "Military personnel": 460,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -286,11 +370,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 11,
     "Special equipment": 0,
+    "Military personnel": 470,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -307,11 +391,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 12,
     "Special equipment": 1,
+    "Military personnel": 410,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -328,11 +412,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 15,
     "Special equipment": 2,
+    "Military personnel": 430,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -349,11 +433,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 9,
     "Special equipment": 2,
+    "Military personnel": 400,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -370,11 +454,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 22,
     "Special equipment": 3,
+    "Military personnel": 480,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -391,11 +475,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 13,
     "Special equipment": 2,
+    "Military personnel": 460,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -412,11 +496,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 2,
     "Special equipment": 4,
+    "Military personnel": 500,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -433,11 +517,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 7,
+    "Military personnel": 400,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -454,11 +538,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 6,
+    "Military personnel": 480,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -475,11 +559,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 14,
     "Special equipment": 2,
+    "Military personnel": 720,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -496,11 +580,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 12,
     "Special equipment": 2,
+    "Military personnel": 730,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -517,11 +601,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 20,
     "Special equipment": 4,
+    "Military personnel": 670,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -538,11 +622,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 1,
+    "Military personnel": 660,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -559,11 +643,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 1,
+    "Military personnel": 510,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -580,11 +664,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 19,
     "Special equipment": 7,
+    "Military personnel": 610,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -601,11 +685,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 14,
     "Special equipment": 3,
+    "Military personnel": 520,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -622,11 +706,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 16,
     "Special equipment": 3,
+    "Military personnel": 580,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -643,11 +727,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 2,
+    "Military personnel": 620,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -664,11 +748,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 15,
     "Special equipment": 9,
+    "Military personnel": 590,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -685,11 +769,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 12,
     "Special equipment": 2,
+    "Military personnel": 750,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -706,11 +790,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 2,
+    "Military personnel": 610,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -727,11 +811,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 1,
+    "Military personnel": 690,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -748,11 +832,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 11,
     "Special equipment": 4,
+    "Military personnel": 650,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -769,11 +853,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 4,
+    "Military personnel": 540,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -790,11 +874,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 16,
     "Special equipment": 5,
+    "Military personnel": 660,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -811,11 +895,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 20,
     "Special equipment": 2,
+    "Military personnel": 560,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -832,11 +916,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 30,
     "Special equipment": 3,
+    "Military personnel": 620,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -853,11 +937,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 21,
     "Special equipment": 7,
+    "Military personnel": 650,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -874,11 +958,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 14,
     "Special equipment": 3,
+    "Military personnel": 520,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -895,11 +979,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 1,
+    "Military personnel": 460,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -916,11 +1000,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 3,
     "Special equipment": 2,
+    "Military personnel": 450,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -937,11 +1021,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 2,
+    "Military personnel": 470,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -958,11 +1042,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 17,
     "Special equipment": 2,
+    "Military personnel": 580,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -979,11 +1063,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 14,
     "Special equipment": 1,
+    "Military personnel": 540,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1000,11 +1084,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 13,
     "Special equipment": 0,
+    "Military personnel": 510,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1021,11 +1105,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 7,
+    "Military personnel": 640,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1042,11 +1126,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 31,
     "Special equipment": 6,
+    "Military personnel": 690,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1063,11 +1147,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 23,
     "Special equipment": 0,
+    "Military personnel": 660,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1084,11 +1168,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 12,
     "Special equipment": 2,
+    "Military personnel": 690,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1105,11 +1189,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 3,
+    "Military personnel": 680,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1126,11 +1210,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 2,
+    "Military personnel": 630,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1147,11 +1231,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 15,
     "Special equipment": 2,
+    "Military personnel": 670,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1168,11 +1252,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 16,
     "Special equipment": 0,
+    "Military personnel": 620,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1189,11 +1273,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 4,
     "Special equipment": 2,
+    "Military personnel": 470,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1210,11 +1294,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 14,
     "Special equipment": 2,
+    "Military personnel": 590,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1231,11 +1315,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 12,
     "Special equipment": 2,
+    "Military personnel": 520,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1252,11 +1336,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 3,
+    "Military personnel": 460,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1273,11 +1357,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 3,
     "Special equipment": 1,
+    "Military personnel": 500,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1294,11 +1378,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 1,
+    "Military personnel": 540,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1315,11 +1399,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 3,
+    "Military personnel": 730,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1336,11 +1420,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 13,
     "Special equipment": 5,
+    "Military personnel": 500,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1357,11 +1441,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 2,
+    "Military personnel": 670,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1378,11 +1462,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 3,
     "Special equipment": 5,
+    "Military personnel": 470,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1399,11 +1483,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 12,
     "Special equipment": 0,
+    "Military personnel": 570,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1420,11 +1504,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 13,
     "Special equipment": 2,
+    "Military personnel": 480,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1441,11 +1525,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 1,
     "Special equipment": 3,
+    "Military personnel": 390,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1462,11 +1546,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 11,
     "Special equipment": 1,
+    "Military personnel": 550,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1483,11 +1567,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 9,
     "Special equipment": 0,
+    "Military personnel": 530,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1504,11 +1588,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 16,
     "Special equipment": 2,
+    "Military personnel": 610,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1525,11 +1609,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 9,
     "Special equipment": 0,
+    "Military personnel": 560,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1546,11 +1630,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 2,
+    "Military personnel": 630,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1567,11 +1651,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 3,
     "Special equipment": 3,
+    "Military personnel": 460,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1588,11 +1672,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 11,
     "Special equipment": 3,
+    "Military personnel": 560,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1609,11 +1693,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 1,
+    "Military personnel": 610,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1630,11 +1714,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 9,
     "Special equipment": 2,
+    "Military personnel": 570,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1651,11 +1735,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 3,
+    "Military personnel": 610,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1672,11 +1756,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 3,
     "Special equipment": 3,
+    "Military personnel": 660,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1693,11 +1777,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 19,
     "Special equipment": 2,
+    "Military personnel": 720,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1714,11 +1798,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 12,
     "Special equipment": 4,
+    "Military personnel": 1020,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1735,11 +1819,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 18,
     "Special equipment": 3,
+    "Military personnel": 660,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1756,11 +1840,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 4,
+    "Military personnel": 920,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1777,11 +1861,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 12,
     "Special equipment": 1,
+    "Military personnel": 960,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1798,11 +1882,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 3,
+    "Military personnel": 700,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1819,11 +1903,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 4,
     "Special equipment": 3,
+    "Military personnel": 710,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1840,11 +1924,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 3,
     "Special equipment": 1,
+    "Military personnel": 880,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1861,11 +1945,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 1,
+    "Military personnel": 760,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1882,11 +1966,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 17,
     "Special equipment": 0,
+    "Military personnel": 1040,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1903,11 +1987,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 1,
+    "Military personnel": 980,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1924,11 +2008,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 13,
     "Special equipment": 5,
+    "Military personnel": 740,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1945,11 +2029,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 9,
+    "Military personnel": 710,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1966,11 +2050,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 4,
     "Special equipment": 0,
+    "Military personnel": 1090,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -1987,11 +2071,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 2,
+    "Military personnel": 1010,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2008,11 +2092,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 3,
+    "Military personnel": 870,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2029,11 +2113,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 1,
     "Special equipment": 1,
+    "Military personnel": 590,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2050,11 +2134,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 0,
+    "Military personnel": 700,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2071,11 +2155,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 16,
     "Special equipment": 2,
+    "Military personnel": 1060,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2092,11 +2176,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 2,
+    "Military personnel": 650,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2113,11 +2197,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 2,
+    "Military personnel": 930,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2134,11 +2218,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 0,
+    "Military personnel": 820,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2155,11 +2239,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 17,
     "Special equipment": 0,
+    "Military personnel": 765,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2176,11 +2260,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 0,
+    "Military personnel": 715,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2197,11 +2281,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 0,
+    "Military personnel": 650,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2218,11 +2302,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 4,
     "Special equipment": 0,
+    "Military personnel": 550,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2239,11 +2323,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 0,
+    "Military personnel": 560,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2260,11 +2344,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 0,
+    "Military personnel": 660,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2281,11 +2365,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 11,
     "Special equipment": 1,
+    "Military personnel": 650,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2302,11 +2386,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 9,
     "Special equipment": 1,
+    "Military personnel": 970,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2323,11 +2407,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 3,
     "Special equipment": 2,
+    "Military personnel": 790,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2344,11 +2428,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 2,
     "Special equipment": 0,
+    "Military personnel": 620,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2365,11 +2449,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 1,
     "Special equipment": 1,
+    "Military personnel": 760,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2386,11 +2470,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 13,
     "Special equipment": 1,
+    "Military personnel": 820,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2407,11 +2491,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 0,
     "Special equipment": 1,
+    "Military personnel": 590,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2428,11 +2512,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 9,
     "Special equipment": 2,
+    "Military personnel": 1010,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2449,11 +2533,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 20,
     "Special equipment": 2,
+    "Military personnel": 800,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2470,11 +2554,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 0,
+    "Military personnel": 690,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2491,11 +2575,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 1,
+    "Military personnel": 690,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2512,11 +2596,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 1,
+    "Military personnel": 740,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2533,11 +2617,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 2,
     "Special equipment": 2,
+    "Military personnel": 560,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2554,11 +2638,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 14,
     "Special equipment": 1,
+    "Military personnel": 900,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2575,11 +2659,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 3,
+    "Military personnel": 1140,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2596,11 +2680,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 0,
+    "Military personnel": 730,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2617,11 +2701,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 9,
     "Special equipment": 0,
+    "Military personnel": 910,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2638,11 +2722,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 3,
+    "Military personnel": 910,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2659,11 +2743,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 3,
     "Special equipment": 5,
+    "Military personnel": 1030,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2680,11 +2764,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 13,
     "Special equipment": 0,
+    "Military personnel": 870,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2701,11 +2785,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 0,
+    "Military personnel": 700,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2722,11 +2806,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 13,
     "Special equipment": 1,
+    "Military personnel": 720,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2743,11 +2827,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 4,
     "Special equipment": 2,
+    "Military personnel": 840,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2764,11 +2848,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 3,
     "Special equipment": 0,
+    "Military personnel": 610,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2785,11 +2869,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 13,
     "Special equipment": 0,
+    "Military personnel": 920,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2806,11 +2890,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 1,
+    "Military personnel": 850,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2827,11 +2911,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 4,
     "Special equipment": 0,
+    "Military personnel": 490,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2848,11 +2932,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 0,
+    "Military personnel": 650,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2869,11 +2953,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 26,
     "Special equipment": 0,
+    "Military personnel": 800,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2890,11 +2974,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 15,
     "Special equipment": 4,
+    "Military personnel": 850,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2911,11 +2995,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 19,
     "Special equipment": 1,
+    "Military personnel": 780,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2932,11 +3016,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 23,
     "Special equipment": 0,
+    "Military personnel": 910,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2953,11 +3037,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 1,
+    "Military personnel": 690,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2974,11 +3058,11 @@
     "Ships (boats)": 1,
     "Cars and cisterns": 4,
     "Special equipment": 0,
+    "Military personnel": 720,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -2995,11 +3079,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 14,
     "Special equipment": 0,
+    "Military personnel": 600,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3016,11 +3100,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 15,
     "Special equipment": 3,
+    "Military personnel": 860,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3037,11 +3121,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 0,
+    "Military personnel": 770,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3058,11 +3142,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 0,
+    "Military personnel": 760,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3079,11 +3163,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 12,
     "Special equipment": 0,
+    "Military personnel": 820,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3100,11 +3184,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 0,
+    "Military personnel": 870,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3121,11 +3205,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 24,
     "Special equipment": 3,
+    "Military personnel": 790,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3142,11 +3226,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 0,
     "Special equipment": 1,
+    "Military personnel": 630,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3163,11 +3247,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 13,
     "Special equipment": 2,
+    "Military personnel": 530,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3184,11 +3268,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 0,
+    "Military personnel": 740,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3205,11 +3289,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 0,
     "Special equipment": 0,
+    "Military personnel": 430,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3226,11 +3310,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 9,
     "Special equipment": 1,
+    "Military personnel": 490,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3247,11 +3331,11 @@
     "Ships (boats)": 1,
     "Cars and cisterns": 8,
     "Special equipment": 0,
+    "Military personnel": 710,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3268,11 +3352,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 0,
+    "Military personnel": 590,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3289,11 +3373,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 3,
     "Special equipment": 1,
+    "Military personnel": 430,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3310,11 +3394,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 1,
     "Special equipment": 0,
+    "Military personnel": 490,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3331,11 +3415,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 38,
     "Special equipment": 0,
+    "Military personnel": 530,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3352,11 +3436,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 14,
     "Special equipment": 1,
+    "Military personnel": 810,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3373,11 +3457,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 0,
+    "Military personnel": 720,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3394,11 +3478,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 0,
+    "Military personnel": 750,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3415,11 +3499,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 0,
+    "Military personnel": 720,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3436,11 +3520,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 13,
     "Special equipment": 1,
+    "Military personnel": 760,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3457,11 +3541,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 24,
     "Special equipment": 0,
+    "Military personnel": 710,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3478,11 +3562,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 1,
+    "Military personnel": 690,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3499,11 +3583,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 15,
     "Special equipment": 0,
+    "Military personnel": 790,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3520,11 +3604,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 0,
+    "Military personnel": 550,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3541,11 +3625,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 1,
+    "Military personnel": 620,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3562,11 +3646,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 12,
     "Special equipment": 0,
+    "Military personnel": 550,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3583,11 +3667,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 0,
+    "Military personnel": 620,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3604,11 +3688,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 0,
+    "Military personnel": 480,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3625,11 +3709,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 0,
+    "Military personnel": 550,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3646,11 +3730,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 0,
+    "Military personnel": 660,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3667,11 +3751,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 9,
     "Special equipment": 1,
+    "Military personnel": 510,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3688,11 +3772,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 2,
+    "Military personnel": 430,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3709,11 +3793,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 13,
     "Special equipment": 1,
+    "Military personnel": 520,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3730,11 +3814,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 2,
     "Special equipment": 0,
+    "Military personnel": 590,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3751,11 +3835,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 14,
     "Special equipment": 2,
+    "Military personnel": 420,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3772,11 +3856,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 0,
     "Special equipment": 0,
+    "Military personnel": 680,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3793,11 +3877,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 1,
     "Special equipment": 1,
+    "Military personnel": 590,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3814,11 +3898,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 13,
     "Special equipment": 1,
+    "Military personnel": 740,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3835,11 +3919,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 1,
+    "Military personnel": 500,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3856,11 +3940,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 4,
     "Special equipment": 2,
+    "Military personnel": 620,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3877,11 +3961,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 0,
+    "Military personnel": 380,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3898,11 +3982,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 4,
     "Special equipment": 3,
+    "Military personnel": 370,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3919,11 +4003,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 3,
     "Special equipment": 0,
+    "Military personnel": 310,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3940,11 +4024,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 2,
     "Special equipment": 1,
+    "Military personnel": 340,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3961,11 +4045,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 21,
     "Special equipment": 0,
+    "Military personnel": 540,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -3982,11 +4066,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 0,
+    "Military personnel": 510,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4003,11 +4087,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 18,
     "Special equipment": 0,
+    "Military personnel": 540,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4024,11 +4108,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 0,
+    "Military personnel": 550,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4045,11 +4129,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 0,
+    "Military personnel": 510,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4066,11 +4150,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 23,
     "Special equipment": 0,
+    "Military personnel": 650,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4087,11 +4171,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 12,
     "Special equipment": 0,
+    "Military personnel": 560,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4108,11 +4192,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 0,
+    "Military personnel": 500,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4129,11 +4213,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 0,
+    "Military personnel": 480,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4150,11 +4234,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 4,
     "Special equipment": 0,
+    "Military personnel": 590,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4171,11 +4255,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 0,
+    "Military personnel": 600,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4192,11 +4276,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 2,
     "Special equipment": 0,
+    "Military personnel": 560,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4213,11 +4297,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 4,
     "Special equipment": 2,
+    "Military personnel": 430,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4234,11 +4318,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 4,
     "Special equipment": 0,
+    "Military personnel": 310,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4255,11 +4339,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 3,
     "Special equipment": 0,
+    "Military personnel": 410,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4276,11 +4360,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 15,
     "Special equipment": 0,
+    "Military personnel": 400,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4297,11 +4381,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 0,
+    "Military personnel": 390,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4318,11 +4402,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 3,
     "Special equipment": 0,
+    "Military personnel": 330,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4339,11 +4423,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 2,
     "Special equipment": 0,
+    "Military personnel": 420,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4360,11 +4444,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 4,
     "Special equipment": 1,
+    "Military personnel": 350,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4381,11 +4465,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 2,
     "Special equipment": 0,
+    "Military personnel": 400,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4402,11 +4486,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 9,
     "Special equipment": 0,
+    "Military personnel": 630,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4423,11 +4507,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 35,
     "Special equipment": 0,
+    "Military personnel": 710,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4444,11 +4528,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 21,
     "Special equipment": 0,
+    "Military personnel": 510,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4465,11 +4549,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 16,
     "Special equipment": 0,
+    "Military personnel": 650,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4486,11 +4570,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 20,
     "Special equipment": 1,
+    "Military personnel": 810,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4507,11 +4591,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 17,
     "Special equipment": 0,
+    "Military personnel": 710,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4528,11 +4612,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 15,
     "Special equipment": 0,
+    "Military personnel": 740,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4549,11 +4633,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 11,
     "Special equipment": 0,
+    "Military personnel": 780,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4570,11 +4654,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 17,
     "Special equipment": 2,
+    "Military personnel": 710,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4591,11 +4675,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 2,
+    "Military personnel": 530,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4612,11 +4696,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 0,
+    "Military personnel": 490,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4633,11 +4717,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 0,
+    "Military personnel": 600,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4654,11 +4738,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 12,
     "Special equipment": 0,
+    "Military personnel": 840,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4675,11 +4759,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 9,
     "Special equipment": 1,
+    "Military personnel": 730,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4696,11 +4780,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 0,
+    "Military personnel": 800,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4717,11 +4801,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 15,
     "Special equipment": 0,
+    "Military personnel": 650,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4738,11 +4822,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 0,
+    "Military personnel": 620,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4759,11 +4843,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 13,
     "Special equipment": 2,
+    "Military personnel": 950,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4780,11 +4864,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 19,
     "Special equipment": 1,
+    "Military personnel": 550,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4801,11 +4885,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 1,
+    "Military personnel": 480,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4822,11 +4906,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 2,
     "Special equipment": 1,
+    "Military personnel": 320,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4843,11 +4927,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 22,
     "Special equipment": 0,
+    "Military personnel": 480,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4864,11 +4948,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 0,
+    "Military personnel": 480,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4885,11 +4969,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 1,
+    "Military personnel": 470,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4906,11 +4990,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 18,
     "Special equipment": 0,
+    "Military personnel": 400,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4927,11 +5011,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 15,
     "Special equipment": 1,
+    "Military personnel": 320,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4948,11 +5032,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 1,
     "Special equipment": 0,
+    "Military personnel": 100,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4969,11 +5053,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 1,
+    "Military personnel": 370,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -4990,11 +5074,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 14,
     "Special equipment": 2,
+    "Military personnel": 430,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5011,11 +5095,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 16,
     "Special equipment": 0,
+    "Military personnel": 530,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5032,11 +5116,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 1,
+    "Military personnel": 320,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5053,11 +5137,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 1,
+    "Military personnel": 300,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5074,11 +5158,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 0,
+    "Military personnel": 400,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5095,11 +5179,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 9,
     "Special equipment": 2,
+    "Military personnel": 500,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5116,11 +5200,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 9,
     "Special equipment": 0,
+    "Military personnel": 420,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5137,11 +5221,11 @@
     "Ships (boats)": 1,
     "Cars and cisterns": 10,
     "Special equipment": 4,
+    "Military personnel": 270,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5158,11 +5242,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 0,
+    "Military personnel": 240,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5179,11 +5263,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 18,
     "Special equipment": 0,
+    "Military personnel": 370,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5200,11 +5284,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 15,
     "Special equipment": 0,
+    "Military personnel": 440,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5221,11 +5305,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 13,
     "Special equipment": 1,
+    "Military personnel": 380,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5242,11 +5326,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 1,
+    "Military personnel": 350,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5263,11 +5347,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 13,
     "Special equipment": 2,
+    "Military personnel": 330,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5284,11 +5368,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 18,
     "Special equipment": 1,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5305,11 +5389,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 12,
     "Special equipment": 0,
+    "Military personnel": 370,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5326,11 +5410,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 15,
     "Special equipment": 0,
+    "Military personnel": 320,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5347,11 +5431,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 0,
+    "Military personnel": 500,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5368,11 +5452,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 18,
     "Special equipment": 0,
+    "Military personnel": 530,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5389,11 +5473,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 17,
     "Special equipment": 0,
+    "Military personnel": 500,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5410,11 +5494,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 9,
     "Special equipment": 0,
+    "Military personnel": 430,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5431,11 +5515,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 12,
     "Special equipment": 0,
+    "Military personnel": 400,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5452,11 +5536,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 19,
     "Special equipment": 0,
+    "Military personnel": 550,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5473,11 +5557,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 1,
+    "Military personnel": 500,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5494,11 +5578,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 20,
     "Special equipment": 4,
+    "Military personnel": 400,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5515,11 +5599,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 22,
     "Special equipment": 0,
+    "Military personnel": 240,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5536,11 +5620,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 29,
     "Special equipment": 1,
+    "Military personnel": 550,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5557,11 +5641,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 20,
     "Special equipment": 0,
+    "Military personnel": 400,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5578,11 +5662,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 23,
     "Special equipment": 0,
+    "Military personnel": 300,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5599,11 +5683,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 0,
+    "Military personnel": 160,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5620,11 +5704,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 3,
     "Special equipment": 3,
+    "Military personnel": 170,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5641,11 +5725,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 1,
+    "Military personnel": 230,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5662,11 +5746,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 21,
     "Special equipment": 0,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5683,11 +5767,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 28,
     "Special equipment": 1,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5704,11 +5788,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 21,
     "Special equipment": 0,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5725,11 +5809,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 32,
     "Special equipment": 3,
+    "Military personnel": 350,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5746,11 +5830,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 0,
+    "Military personnel": 350,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5767,11 +5851,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 18,
     "Special equipment": 0,
+    "Military personnel": 300,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5788,11 +5872,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 19,
     "Special equipment": 1,
+    "Military personnel": 400,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5809,11 +5893,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 27,
     "Special equipment": 2,
+    "Military personnel": 350,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5830,11 +5914,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 55,
     "Special equipment": 4,
+    "Military personnel": 650,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5851,11 +5935,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 24,
     "Special equipment": 1,
+    "Military personnel": 640,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5872,11 +5956,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 15,
     "Special equipment": 0,
+    "Military personnel": 460,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5893,11 +5977,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 19,
     "Special equipment": 2,
+    "Military personnel": 350,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5914,11 +5998,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 1,
+    "Military personnel": 300,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5935,11 +6019,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 1,
+    "Military personnel": 450,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5956,11 +6040,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 21,
     "Special equipment": 0,
+    "Military personnel": 350,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5977,11 +6061,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 1,
+    "Military personnel": 350,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -5998,11 +6082,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 3,
     "Special equipment": 1,
+    "Military personnel": 450,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6019,11 +6103,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 19,
     "Special equipment": 0,
+    "Military personnel": 350,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6040,11 +6124,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 29,
     "Special equipment": 2,
+    "Military personnel": 450,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6061,11 +6145,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 17,
     "Special equipment": 2,
+    "Military personnel": 350,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6082,11 +6166,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 0,
+    "Military personnel": 250,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6103,11 +6187,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 3,
     "Special equipment": 0,
+    "Military personnel": 250,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6124,11 +6208,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 2,
     "Special equipment": 0,
+    "Military personnel": 400,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6145,11 +6229,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 0,
     "Special equipment": 0,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6166,11 +6250,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 0,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6187,11 +6271,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 1,
     "Special equipment": 0,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6208,11 +6292,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 0,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6229,11 +6313,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 2,
+    "Military personnel": 300,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6250,11 +6334,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 3,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6271,11 +6355,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 69,
     "Special equipment": 1,
+    "Military personnel": 400,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6292,11 +6376,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 0,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6313,11 +6397,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 1,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6334,11 +6418,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 0,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6355,11 +6439,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 1,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6376,11 +6460,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 3,
     "Special equipment": 0,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6397,11 +6481,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 15,
     "Special equipment": 1,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6418,11 +6502,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 3,
     "Special equipment": 0,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6439,11 +6523,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 13,
     "Special equipment": 1,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6460,11 +6544,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 2,
+    "Military personnel": 160,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6481,11 +6565,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 1,
+    "Military personnel": 300,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6502,11 +6586,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 15,
     "Special equipment": 0,
+    "Military personnel": 140,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6523,11 +6607,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 1,
+    "Military personnel": 300,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6544,11 +6628,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 2,
+    "Military personnel": 250,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6565,11 +6649,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 4,
     "Special equipment": 0,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6586,11 +6670,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 38,
     "Special equipment": 0,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6607,11 +6691,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 1,
+    "Military personnel": 180,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6628,11 +6712,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 2,
     "Special equipment": 0,
+    "Military personnel": 140,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6649,11 +6733,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 2,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6670,11 +6754,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 13,
     "Special equipment": 2,
+    "Military personnel": 160,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6691,11 +6775,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 19,
     "Special equipment": 1,
+    "Military personnel": 170,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6712,11 +6796,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 16,
     "Special equipment": 2,
+    "Military personnel": 270,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6733,11 +6817,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 0,
+    "Military personnel": 160,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6754,11 +6838,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 12,
     "Special equipment": 0,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6775,11 +6859,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 3,
     "Special equipment": 2,
+    "Military personnel": 170,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6796,11 +6880,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 9,
     "Special equipment": 0,
+    "Military personnel": 180,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6817,11 +6901,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 3,
     "Special equipment": 1,
+    "Military personnel": 280,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6838,11 +6922,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 17,
     "Special equipment": 0,
+    "Military personnel": 240,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6859,11 +6943,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 22,
     "Special equipment": 0,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6880,11 +6964,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 2,
+    "Military personnel": 100,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6901,11 +6985,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 0,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6922,11 +7006,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 14,
     "Special equipment": 0,
+    "Military personnel": 100,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6943,11 +7027,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 2,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6964,11 +7048,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 11,
     "Special equipment": 0,
+    "Military personnel": 160,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -6985,11 +7069,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 4,
     "Special equipment": 1,
+    "Military personnel": 140,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7006,11 +7090,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 11,
     "Special equipment": 0,
+    "Military personnel": 130,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7027,11 +7111,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 16,
     "Special equipment": 0,
+    "Military personnel": 300,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7048,11 +7132,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 1,
+    "Military personnel": 100,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7069,11 +7153,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 3,
     "Special equipment": 0,
+    "Military personnel": 70,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7090,11 +7174,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 2,
     "Special equipment": 0,
+    "Military personnel": 100,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7111,11 +7195,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 0,
+    "Military personnel": 100,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7132,11 +7216,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 2,
     "Special equipment": 0,
+    "Military personnel": 300,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7153,11 +7237,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 20,
     "Special equipment": 0,
+    "Military personnel": 250,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7174,11 +7258,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 17,
     "Special equipment": 1,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7195,11 +7279,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 14,
     "Special equipment": 0,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7216,11 +7300,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 0,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7237,11 +7321,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 11,
     "Special equipment": 1,
+    "Military personnel": 230,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7258,11 +7342,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 4,
     "Special equipment": 3,
+    "Military personnel": 100,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7279,11 +7363,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 4,
     "Special equipment": 0,
+    "Military personnel": 120,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7300,11 +7384,11 @@
     "Ships (boats)": 1,
     "Cars and cisterns": 8,
     "Special equipment": 0,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7321,11 +7405,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 4,
     "Special equipment": 0,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7342,11 +7426,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 9,
     "Special equipment": 0,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7363,11 +7447,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 14,
     "Special equipment": 1,
+    "Military personnel": 250,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7384,11 +7468,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 11,
     "Special equipment": 0,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7405,11 +7489,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 4,
     "Special equipment": 0,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7426,11 +7510,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 0,
+    "Military personnel": 170,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7447,11 +7531,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 0,
+    "Military personnel": 100,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7468,11 +7552,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 0,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7489,11 +7573,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 6,
     "Special equipment": 1,
+    "Military personnel": 130,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7510,11 +7594,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 4,
+    "Military personnel": 300,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7531,11 +7615,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 4,
     "Special equipment": 0,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7552,11 +7636,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 0,
+    "Military personnel": 250,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7573,11 +7657,11 @@
     "Ships (boats)": 1,
     "Cars and cisterns": 17,
     "Special equipment": 0,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7594,11 +7678,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 2,
     "Special equipment": 0,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7615,11 +7699,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 9,
     "Special equipment": 0,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7636,11 +7720,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 12,
     "Special equipment": 1,
+    "Military personnel": 250,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7657,11 +7741,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 13,
     "Special equipment": 0,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7678,11 +7762,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 0,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7699,11 +7783,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 0,
+    "Military personnel": 100,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7720,11 +7804,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 0,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7741,11 +7825,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 17,
     "Special equipment": 1,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7762,11 +7846,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 15,
     "Special equipment": 0,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7783,11 +7867,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 1,
     "Special equipment": 0,
+    "Military personnel": 140,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7804,11 +7888,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 0,
+    "Military personnel": 110,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7825,11 +7909,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 35,
     "Special equipment": 0,
+    "Military personnel": 100,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7846,11 +7930,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 23,
     "Special equipment": 1,
+    "Military personnel": 100,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7867,11 +7951,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 1,
+    "Military personnel": 100,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7888,11 +7972,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 4,
     "Special equipment": 0,
+    "Military personnel": 100,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7909,11 +7993,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 35,
     "Special equipment": 2,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7930,11 +8014,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 15,
     "Special equipment": 1,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7951,11 +8035,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 17,
     "Special equipment": 0,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7972,11 +8056,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 18,
     "Special equipment": 0,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -7993,11 +8077,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 14,
     "Special equipment": 0,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8014,11 +8098,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 0,
     "Special equipment": 0,
+    "Military personnel": 250,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8035,11 +8119,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 1,
     "Special equipment": 1,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8056,11 +8140,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 3,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8077,11 +8161,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 1,
+    "Military personnel": 100,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8098,11 +8182,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 7,
     "Special equipment": 0,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8119,11 +8203,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 12,
     "Special equipment": 0,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8140,11 +8224,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 16,
     "Special equipment": 0,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8161,11 +8245,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 16,
     "Special equipment": 0,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8182,11 +8266,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 5,
     "Special equipment": 0,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8203,11 +8287,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 20,
     "Special equipment": 0,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8224,11 +8308,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 28,
     "Special equipment": 0,
+    "Military personnel": 400,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8245,11 +8329,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 8,
     "Special equipment": 1,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8266,11 +8350,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 14,
     "Special equipment": 0,
+    "Military personnel": 300,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8287,11 +8371,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 28,
     "Special equipment": 0,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8308,11 +8392,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 17,
     "Special equipment": 1,
+    "Military personnel": 300,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8329,11 +8413,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 23,
     "Special equipment": 0,
+    "Military personnel": 250,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8350,11 +8434,11 @@
     "Ships (boats)": 1,
     "Cars and cisterns": 22,
     "Special equipment": 0,
+    "Military personnel": 300,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8371,11 +8455,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 17,
     "Special equipment": 0,
+    "Military personnel": 350,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8392,11 +8476,11 @@
     "Ships (boats)": 0,
     "Cars and cisterns": 10,
     "Special equipment": 0,
+    "Military personnel": 350,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8413,11 +8497,11 @@
     "UAV": 17,
     "Special equipment": 2,
     "Cruise missiles": 2,
+    "Military personnel": 150,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8434,11 +8518,11 @@
     "UAV": 19,
     "Special equipment": 1,
     "Cruise missiles": 2,
+    "Military personnel": 400,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8455,11 +8539,11 @@
     "UAV": 17,
     "Special equipment": 0,
     "Cruise missiles": 0,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8476,11 +8560,11 @@
     "UAV": 12,
     "Special equipment": 0,
     "Cruise missiles": 1,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8497,11 +8581,11 @@
     "UAV": 9,
     "Special equipment": 0,
     "Cruise missiles": 2,
+    "Military personnel": 200,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8518,11 +8602,11 @@
     "UAV": 12,
     "Special equipment": 0,
     "Cruise missiles": 3,
+    "Military personnel": 300,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8539,11 +8623,11 @@
     "UAV": 20,
     "Special equipment": 0,
     "Cruise missiles": 0,
+    "Military personnel": 400,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8560,11 +8644,11 @@
     "UAV": 26,
     "Special equipment": 6,
     "Cruise missiles": 0,
+    "Military personnel": 300,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8581,11 +8665,11 @@
     "UAV": 13,
     "Special equipment": 0,
     "Cruise missiles": 0,
+    "Military personnel": 300,
     "Cars": 0,
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8603,10 +8687,10 @@
     "UAV": 3,
     "Special equipment": 1,
     "Mobile SRBM": 0,
+    "Military personnel": 200,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8624,10 +8708,10 @@
     "UAV": 14,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 200,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8645,10 +8729,10 @@
     "UAV": 8,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 400,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8666,10 +8750,10 @@
     "UAV": 2,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 300,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8687,10 +8771,10 @@
     "UAV": 4,
     "Special equipment": 3,
     "Mobile SRBM": 0,
+    "Military personnel": 200,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8708,10 +8792,10 @@
     "UAV": 10,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 100,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8729,10 +8813,10 @@
     "UAV": 9,
     "Special equipment": 1,
     "Mobile SRBM": 0,
+    "Military personnel": 200,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8750,10 +8834,10 @@
     "UAV": 10,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 400,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8771,10 +8855,10 @@
     "UAV": 6,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 200,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8792,10 +8876,10 @@
     "UAV": 1,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 100,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8813,10 +8897,10 @@
     "UAV": 7,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 100,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8834,10 +8918,10 @@
     "UAV": 3,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 200,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8855,10 +8939,10 @@
     "UAV": 7,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 300,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8876,10 +8960,10 @@
     "UAV": 10,
     "Special equipment": 1,
     "Mobile SRBM": 0,
+    "Military personnel": 200,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8897,10 +8981,10 @@
     "UAV": 3,
     "Special equipment": 1,
     "Mobile SRBM": 0,
+    "Military personnel": 100,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8918,10 +9002,10 @@
     "UAV": 1,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 100,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8939,10 +9023,10 @@
     "UAV": 2,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 100,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8960,10 +9044,10 @@
     "Ships (boats)": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 200,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -8981,10 +9065,10 @@
     "Ships (boats)": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 100,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9002,10 +9086,10 @@
     "Ships (boats)": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 200,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9023,10 +9107,10 @@
     "Ships (boats)": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 200,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9044,10 +9128,10 @@
     "Ships (boats)": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 100,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9065,10 +9149,10 @@
     "Ships (boats)": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 100,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9086,10 +9170,10 @@
     "Ships (boats)": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 300,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9107,10 +9191,10 @@
     "Ships (boats)": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 100,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9128,10 +9212,10 @@
     "Ships (boats)": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 200,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9149,10 +9233,10 @@
     "Ships (boats)": 0,
     "Special equipment": 1,
     "Mobile SRBM": 0,
+    "Military personnel": 300,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9170,10 +9254,10 @@
     "Ships (boats)": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 200,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9191,10 +9275,10 @@
     "Ships (boats)": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 100,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9212,10 +9296,10 @@
     "Ships (boats)": 0,
     "Special equipment": 2,
     "Mobile SRBM": 0,
+    "Military personnel": 200,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9233,10 +9317,10 @@
     "Ships (boats)": 0,
     "Special equipment": 1,
     "Mobile SRBM": 0,
+    "Military personnel": 200,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9254,10 +9338,10 @@
     "Ships (boats)": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 100,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9275,10 +9359,10 @@
     "Ships (boats)": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 200,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9296,10 +9380,10 @@
     "Ships (boats)": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
+    "Military personnel": 400,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9317,10 +9401,10 @@
     "Ships (boats)": 0,
     "Special equipment": 2,
     "Mobile SRBM": 2,
+    "Military personnel": 200,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9338,10 +9422,10 @@
     "Ships (boats)": 2,
     "Special equipment": 1,
     "Mobile SRBM": 0,
+    "Military personnel": 300,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9358,11 +9442,11 @@
     "Cisterns with fuel": 0,
     "Ships (boats)": 1,
     "Special equipment": 2,
+    "Military personnel": 300,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9379,11 +9463,11 @@
     "Cisterns with fuel": 2,
     "Ships (boats)": 0,
     "Special equipment": 1,
+    "Military personnel": 200,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9400,11 +9484,11 @@
     "Cisterns with fuel": 0,
     "Ships (boats)": 1,
     "Special equipment": 0,
+    "Military personnel": 300,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9421,11 +9505,11 @@
     "Cisterns with fuel": 10,
     "Ships (boats)": 0,
     "Special equipment": 2,
+    "Military personnel": 300,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9442,11 +9526,11 @@
     "Cisterns with fuel": 0,
     "Ships (boats)": 0,
     "Special equipment": 1,
+    "Military personnel": 300,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9463,11 +9547,11 @@
     "Cisterns with fuel": 0,
     "Ships (boats)": 0,
     "Special equipment": 1,
+    "Military personnel": 300,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9484,11 +9568,11 @@
     "Cisterns with fuel": 0,
     "Ships (boats)": 0,
     "Special equipment": 0,
+    "Military personnel": 200,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9505,11 +9589,11 @@
     "Cisterns with fuel": 0,
     "Ships (boats)": 0,
     "Special equipment": 1,
+    "Military personnel": 200,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9526,11 +9610,11 @@
     "Cisterns with fuel": 0,
     "Ships (boats)": 0,
     "Special equipment": 0,
+    "Military personnel": 200,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9547,11 +9631,11 @@
     "Cisterns with fuel": 0,
     "Ships (boats)": 0,
     "Special equipment": 0,
+    "Military personnel": 300,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9567,12 +9651,12 @@
     "UAV": 1,
     "Cisterns with fuel": 0,
     "Ships (boats)": 0,
+    "Military personnel": 1500,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9588,12 +9672,12 @@
     "UAV": 1,
     "Cisterns with fuel": 0,
     "Ships (boats)": 0,
+    "Military personnel": 0,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9609,12 +9693,12 @@
     "UAV": 0,
     "Cisterns with fuel": 0,
     "Ships (boats)": 0,
+    "Military personnel": 6,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9630,12 +9714,12 @@
     "UAV": 0,
     "Cisterns with fuel": 0,
     "Ships (boats)": 0,
+    "Military personnel": 5,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9651,12 +9735,12 @@
     "UAV": 0,
     "Cisterns with fuel": 0,
     "Ships (boats)": 0,
+    "Military personnel": 0,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9672,12 +9756,12 @@
     "UAV": 0,
     "Cisterns with fuel": 0,
     "Ships (boats)": 0,
+    "Military personnel": 7,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9693,12 +9777,12 @@
     "UAV": 0,
     "Cisterns with fuel": 0,
     "Ships (boats)": 0,
+    "Military personnel": 87,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9714,12 +9798,12 @@
     "UAV": 0,
     "Cisterns with fuel": 0,
     "Ships (boats)": 0,
+    "Military personnel": 1000,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9735,12 +9819,12 @@
     "UAV": 3,
     "Cisterns with fuel": 0,
     "Ships (boats)": 1,
+    "Military personnel": 14,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9756,12 +9840,12 @@
     "UAV": 1,
     "Cisterns with fuel": 0,
     "Ships (boats)": 0,
+    "Military personnel": 1000,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9777,12 +9861,12 @@
     "UAV": 0,
     "Cisterns with fuel": 0,
     "Ships (boats)": 0,
+    "Military personnel": 834,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9798,12 +9882,12 @@
     "UAV": 0,
     "Cisterns with fuel": 0,
     "Ships (boats)": 0,
+    "Military personnel": 166,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9819,12 +9903,12 @@
     "UAV": 0,
     "Cisterns with fuel": 0,
     "Ships (boats)": 0,
+    "Military personnel": 3160,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Special equipment": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
@@ -9881,26 +9965,27 @@
     "MLRS Grad": 0,
     "UAV": 0,
     "Ships (boats)": 0,
+    "Military personnel": 0,
     "MLRS": 0,
     "Anti-aircraft warfare": 0,
     "Cruise missiles": 0,
     "Cars and cisterns": 0,
     "Special equipment": 0,
     "Cisterns with fuel": 0,
-    "Mobile SRBM": 0,
-    "Military personnel": 0
+    "Mobile SRBM": 0
   },
   {
     "date": "27.02.2022",
+    "Tanks": 0,
     "Armored fighting vehicle": 0,
     "Planes": 0,
     "Helicopters": 0,
+    "Cannons": 0,
     "BUK missile system": 0,
     "MLRS Grad": 0,
     "UAV": 0,
     "Ships (boats)": 0,
-    "Tanks": 0,
-    "Cannons": 0,
+    "Military personnel": 0,
     "MLRS": 0,
     "Anti-aircraft warfare": 0,
     "Cruise missiles": 0,
@@ -9908,15 +9993,15 @@
     "Special equipment": 0,
     "Cars": 0,
     "Cisterns with fuel": 0,
-    "Mobile SRBM": 0,
-    "Military personnel": 0
+    "Mobile SRBM": 0
   },
   {
     "date": "26.02.2022",
-    "Planes": 0,
-    "Helicopters": 0,
     "Tanks": 0,
     "Armored fighting vehicle": 0,
+    "Planes": 0,
+    "Helicopters": 0,
+    "Military personnel": 0,
     "Cannons": 0,
     "MLRS": 0,
     "Anti-aircraft warfare": 0,
@@ -9929,15 +10014,15 @@
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
     "date": "25.02.2022",
+    "Tanks": 0,
     "Armored fighting vehicle": 0,
     "Planes": 0,
     "Helicopters": 0,
-    "Tanks": 0,
+    "Military personnel": 0,
     "Cannons": 0,
     "MLRS": 0,
     "Anti-aircraft warfare": 0,
@@ -9950,15 +10035,15 @@
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   },
   {
     "date": "24.02.2022",
+    "Tanks": 0,
     "Armored fighting vehicle": 0,
     "Planes": 0,
     "Helicopters": 0,
-    "Tanks": 0,
+    "Military personnel": 0,
     "Cannons": 0,
     "MLRS": 0,
     "Anti-aircraft warfare": 0,
@@ -9971,7 +10056,6 @@
     "Cisterns with fuel": 0,
     "Mobile SRBM": 0,
     "MLRS Grad": 0,
-    "Military personnel": 0,
     "BUK missile system": 0
   }
 ]
